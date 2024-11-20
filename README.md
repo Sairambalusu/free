@@ -13,7 +13,6 @@
         "Placement": "Public",
         "Compliance": "NONE",
         "Data Classification": "Internal",
-        "Engineer": "Blake.Wilson@omnicomgroup.com"
     },
     "properties": {
         "defaultHostname": "gray-rock-02569150f.3.azurestaticapps.net",
